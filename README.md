@@ -23,13 +23,13 @@ my own social media platform someday. This API uses MongoDB for the database, Ex
 ## Installation
 
 1. Clone this repository to your local computer and open the folder in VS Code. Then open a terminal window for the folder.
-2. Run `npm install --save-dev`.
-3. Run `npm run build`.
+2. Run `npm install --save-dev` to install all required dependancies.
+3. Run `npm run build` to compile the typescript into executable Javascript. NOTE: This step can be skipped if using step 1 of Usage.
 
 ## Usage
 
 1. After installation, run `npm run start`.
-2. Alternatively, run `npm run dev` instead.
+2. Alternatively, run `npm run dev` instead after step 2 of installation.
 3. Open Insomnia and connect to the port running the API on localhost.
 
 ## Credits
